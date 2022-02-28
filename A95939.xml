@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of certaine citizens that lately went to the leaguer, then before Oxford, or, Their answer to some prevaricating passages, inserted in an epistle, lately published by William Dell, minister of the Gospel. Occasioned, by their attesting his delivering of certain positions, in a sermon at the leaguer, here set down, they being thereunto called by the House of Lords. Published by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95939</idno>
+            <idno type="STC">Wing V472</idno>
+            <idno type="STC">Thomason E344_14</idno>
+            <idno type="STC">ESTC R200964</idno>
+            <idno type="EEBO-CITATION">99861570</idno>
+            <idno type="PROQUEST">99861570</idno>
+            <idno type="VID">113708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of certaine citizens that lately went to the leaguer, then before Oxford, or, Their answer to some prevaricating passages, inserted in an epistle, lately published by William Dell, minister of the Gospel. Occasioned, by their attesting his delivering of certain positions, in a sermon at the leaguer, here set down, they being thereunto called by the House of Lords. Published by authoritie.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Eliz. Purslow for Thomas Vere at the upper end of the Old-baily.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Dell, William. The building and glory of the truely Christian and spiritual church (Wing D918).</note>
+                  <note>Annotation on Thomason copy: "July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dell, William, d. 1664. --  Building and glory of the truely Christian and spiritual church.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113708:1"/>
+            <pb facs="tcp:113708:1" rendition="simple:additions"/>
+            <p>A VINDICATION Of certaine CITIZENS That lately went to the Leaguer, then before OXFORD, Or, their Anſwer unto ſome prevaricating paſ<g ref="char:EOLhyphen"/>ſages, inſerted in an Epiſtle, lately publiſhed by <hi>William Dell,</hi> Miniſter of the Goſpel.</p>
+            <p>Occaſioned, by their atteſting his delivering of cer<g ref="char:EOLhyphen"/>tain Poſitions, in a Sermon at the Leaguer, here ſet down, they being thereunto called by the Houſe of LORDS.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 20.6.</hi>
+               </bibl>
+               <p>Moſt men will proclaime, every one his owne goodneſſe; but a faithfull man who can finde?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>MATTH. 5.13.</hi>
+               </bibl>
+               <p>Ye are the ſalt of the earth; but if the ſalt hath loſt his ſavour, wherewith ſhall it be ſalted? It is thenceforth good for nothing, but to be caſt forth, and to be trodden under foot of men.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>7.15.</hi>
+               </bibl>
+               <p>Beware of falſe Prophets, which come to you in ſheepes cloathing, but inwardly they are ravening Wolves.</p>
+            </q>
+            <p>Publiſhed by Authoritie.</p>
+            <p>LONDON: Printed by <hi>Eliz. Purſlow</hi> for <hi>Thomas Vere</hi> at the upper end of the Old-baily. 1646.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:113708:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:113708:2"/>
+            <p>
+               <hi>Mr. Dell</hi> having beautified the Fronteſpiece of his Book with theſe Scriptures; namely, <hi>Matth.</hi> 5.11. <hi>Bleſsed are ye when men ſhall revile you, and perſecute you, and ſhall ſay all manner of evill againſt you falſly, for my ſake.</hi> verſ. 12. <hi>Rejoyce and be exceeding glad, for great is your reward in Heaven, for ſo perſecuted they the Prophets which were before you.</hi> Pſal. 69.9. <hi>The reproaches of them that reproached thee, are fallen upon mee.</hi> Beginneth his E<g ref="char:EOLhyphen"/>piſtle thus:</p>
+         </div>
+         <div type="to_the_reader">
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving obtained this grace from God; to be called into ſome friendſhip and familiarity with Jeſus Chriſt, ſo, as to heare and receive from him, ſomething of the minde and boſome of the Fa<g ref="char:EOLhyphen"/>ther, according to his free grace, who hath mer<g ref="char:EOLhyphen"/>cie on whom hee will: and having after many teares and temptations (not unknowne to many yet in the body) ob<g ref="char:EOLhyphen"/>tained this further grace, to ſpeake the Word of God with boldneſſe,
+<pb n="2" facs="tcp:113708:3"/>I have alſo been counted worthy to be taken into ſome fellowſhip with Chriſt in his ſufferings, and to ondure the contraditions of ſinners, and oft-times to encounter the rage and madneſſe of men; yea, and to fight with men after the manner of beasts, altogether bruitiſh and furious. And thus it hath fared with me often, espe<g ref="char:EOLhyphen"/>cially at two remarkable times; The one at <hi>Lincolne,</hi> upon occa<g ref="char:EOLhyphen"/>ſion of two Sermons preached there, upon <hi>Iſai. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</hi> The other time wherein I met with remarkable oppoſition, was lately at <hi>Marſton,</hi> the head Quarter at the Leaguer before <hi>Oxford,</hi> whi<g ref="char:EOLhyphen"/>ther ſome comming out of the Citie of <hi>London,</hi> in all probabi<g ref="char:EOLhyphen"/>lity out of ſome speciall deſigne, (ſeeing the old Malignity now acts in a new forme, and is daily comming forth in a ſecond and more plauſible, cunning, and deceiving edition) became ex<g ref="char:EOLhyphen"/>ceeding angry and heady againſt the plaine and cleare truth of the Gospel delivered in this following Expoſition, (wherein the whole truth and ſubſtance of what was then delivered, is ex<g ref="char:EOLhyphen"/>actly ſet downe, and nothing abated, but rather ſome things far<g ref="char:EOLhyphen"/>ther preſſed;
+<note place="margin">Jer. 36.32.</note> adding (as <hi>Jeremiah</hi> in the ſecond roll) many like words to the former. Now ſome of theſe men, ſeeing them<g ref="char:EOLhyphen"/>ſelves and their new deſigne clearely diſcovered by the light of the Word, and made altogether naked, ſuddenly they grew fierce and furious, contradicting and blaſpheming; yea, ſome of them ſpeaking the language of hell upon earth, of which there are ſome witneſſes) as became men of ſuch a generation.
+<note place="margin">Joh. 8.44.</note> Theſe men, according to the operation of that ſpirit, which workes migh<g ref="char:EOLhyphen"/>tily in the children of diſobedience, come and fill the whole Citie with lyes and ſlanders, laying to my charge things that I knew not; the falſehood and untruth whereof, there are ſome hundreds, and ſome of them of great and eminent worth and piety, ready to witneſſe: Wherefore of meere neceſſity I was conſtrained to publiſh this Expoſition, as a witneſſe to this preſent and the following generations, of theſe mens reſiſting the Spirit, and acting againſt Chriſt himſelfe in the Word. And though the diſcourſe bee very plaine, not ſavouring of any accuratoneſſe of Humane Wiſdome and Learning; yet they that are themſelves ſpiritu<g ref="char:EOLhyphen"/>all, will acknowledge ſomething of the ſpirit in it, and for that cauſe will relliſh and love it, though others will therefore bee at
+<pb n="3" facs="tcp:113708:3"/>the greater enemitie againſt it. But for my part, I have ſet downe my reſolution in the Lord in this Cauſe of Jeſus Chriſt, not to weigh all the power of Earth or Hell, one feather; but to put it to the utmoſt tryall, whether the truth of the Gospel, or the ſlanders and lyes of men ſhall prevaile; whether the ſmoake of the bottomleſſe pit, that comes forth out of the mouth of theſe and many others, ſhall be able to blot out or darken, the Brightneſſe of Chriſts comming in the Miniſtery of the Gospel? Yea, and whether the power and malice of the Divell and the world, ſhall be ſtronger then the love and protection of Jeſus Chriſt. And I doubt not, but the more the world acts in the ſpirit of the Divell, the more will Chriſt enable us, to act in his owne Spirit, till all at laſt ſhall be forced to acknowledge, that the ſpirit that is in us, is ſtronger then the ſpirit that is in the world? And what now have all theſe men obtained by all their malice and fury, but a greater and more open diſcovery of the truth; and to cauſe that that light of the Gospel, that only ſhone in one Congregation, ſhould through the Printing of it, have its beames ſcattered in ma<g ref="char:EOLhyphen"/>ny parts of the Kingdome? And where over the truth comes, the Children of the truth will entertaine it, and aske no body leave. And thus, through the over-ruling power of Gods wiſedome, doe theſe men betray their owne and their follo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Cauſe, and overthrow their owne, and their ends; and whilſt they thinke to oppreſſe the truth, propagate it the more: And thus ſhall truths enemies pe<g ref="char:EOLhyphen"/>riſh, and the truth it ſelfe flouriſh: Yea, flouriſh through Slanders, Oppoſitions, Contradictions, Blaſphemies, and all the Vileneſſe and Villany in the world. And all this conſidente in us, ariſes hence; Becauſe Chriſt is not as a dead man, but is riſen and aſcended, and ſits at the right hand of God, and fills all things, and doth all things in Heaven and in Earth, in the world, and in the Church, among his friends, and among his enemies, till theſe be made his foot<g ref="char:EOLhyphen"/>ſtoole; which is the very thing we are now in expectation of. Now one thing more which I thinke fit to acquaint the world withall in this Epiſtle, is this. That <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe thorny hearts durſt after come to diſcourſe with me, or to looke me in the face; but one among them, that ſeemed of a better temper then the reſt, upon the urging of a godly Citizen then preſent, did ſpeake with me; and the Que<g ref="char:EOLhyphen"/>ſtion he asked of me, was this; <hi>Whether I thought, that all
+<pb n="4" facs="tcp:113708:4"/>Presbyterians were carnall Goſpellers:</hi> I told him, I was farre from thinking any ſuch thing; for I knew ſome of them very godly Chriſtians, and did acknowledge the grace of God in them; and that for mine owne part, I did not allow any ſuch diſtinction of Christians, as Presbyterians and Independents, this being onely a distinction of mans making, tending to the diviſion of the Church; and added, That as in Chriſts Kingdome, <hi>Neither circumciſi<g ref="char:EOLhyphen"/>on availeth any thing, nor uncircumciſion, but a new crea<g ref="char:EOLhyphen"/>ture;</hi> So, in this ſame Kingdome of Chriſt, Neither Presbytery availeth any thing, nor Independency, <hi>but a new creature;</hi> and that the Kingdome of God ſtands not in Presbytery nor Indepen<g ref="char:EOLhyphen"/>dency, but in righteouſneſſe and peace, and joy in the holy Ghoſt; and that, if I ſaw any thing of God, or Chriſt, or the Spirit, in a<g ref="char:EOLhyphen"/>ny one, I reckoned him as a Brother, not taking any ſuch opinion into conſideration; and that the unitie of Spirit, and not of o<g ref="char:EOLhyphen"/>pinion, is the bond of peace in Christs Kingdome: The man then pretended to be ſatisfied, and to rejoyce in his ſatisfaction; but ſince (as is related) hath ſhewed his ſtomack againe: But, be<g ref="char:EOLhyphen"/>cauſe he ſeemes to be a Christian, <hi>The Lord lay it not to his charge.</hi>
+            </p>
+            <p>
+               <hi>Thus farre the Epiſtle relates to us, our Vindicati<g ref="char:EOLhyphen"/>on and Anſwer followeth.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="5" facs="tcp:113708:4"/>
+            <head>To Master Dell.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving received, and peruſed your Epiſtle, directed to your Reader, wee thinke our ſelves bound in dutie, as well for the Vindication of our Innocency, as the ſa<g ref="char:EOLhyphen"/>tisfaction of our fellow Citizens, and others, who have, or ſhall read you; to let your ſelfe, and the world know, that wee, the perſons, againſt whom you are pleaſed to be ſo in<g ref="char:EOLhyphen"/>vective, are ſuch as by our fruits (our lives and converſations) deſire to be knowne: <hi>By Gods grace wee are what wee are;</hi> wee deſire not, that our talkative tongues ſhould applaud us before men, but that our ſincere ſoules ſhould approve us to God. <hi>To him, the ſearcher of all hearts, wee appeale;</hi>
+               <note place="margin">2 Chron. 28.9</note> for he knowes, and his diſcerning Spirit teſtifies to, and with our ſpirits, that we are every one of us free from all thoſe your viru<g ref="char:EOLhyphen"/>lent expreſſions; which cauſeth our ſpirits to be perplexed, and our very ſoules to grieve; not for our owne ſakes, whom you have endeavoured to ſhoot and ſtab, with the ſharpe Ar<g ref="char:EOLhyphen"/>row, and direfull dart of your ſiery tongue. But for your own
+<pb n="6" facs="tcp:113708:5"/>ſake; that you, whom wee eſteemed to be principled from Heaven, (and ſo ſome of us reported of you,) ſhould diſco<g ref="char:EOLhyphen"/>ver your rotten principles,
+<note place="margin">Epheſi. 4.31.</note> by your <hi>bitterneſſe, wrath, ang<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, calmour, evill ſpeaking, and malice;</hi> whereas your <hi>ſpeech ought to be alwayes with grace,
+<note place="margin">Col. 4.6.</note> ſeaſoned with ſalt.</hi>
+            </p>
+            <p>Could it be imagined, that a man of your pretence could poſ<g ref="char:EOLhyphen"/>ſibly thus miſcarry? Where is that divine ſtrength that ſhould have conquered your peeviſh paſſion? What! profeſſe ſo much grace, and demonſtrate ſo much unſubdued nature? Before you did thorowly reſolve to belch out ſo many Bedlam blaſts, why did you not remember your owne honour? Surely that, though Gods glory would not, might have deterred you from your rayling rage.</p>
+            <p>Sir, You muſt give us leave to trace your Tract, that ſo wee may fully anſwer every piece of your patcht Epiſtle that ſhall concerne us; for one jot further wee will not ſtep; No, wee have already appealed to God: And now wee will appeal to the world, whether or no, wee be ſuch as your terme us, <hi>mad<g ref="char:EOLhyphen"/>men, furious, brutiſh beaſts;</hi> Phraſes that your carnall Chri<g ref="char:EOLhyphen"/>ſtian ſurely ſcornes to breath forth.</p>
+            <p>The providence of God diſpoſing of our thoughts to viſite the Leaguer lately before <hi>Oxford;</hi> &amp; the rather, for that it was credibly reported in <hi>London,</hi> that <hi>Oxford</hi> would certainly be ſurrendred on Saturday, the ſixth of <hi>June</hi> laſt: And having ne<g ref="char:EOLhyphen"/>ver beene at, nor ſeene a Leaguer; hoping likewiſe that this would be the laſt Leaguer, that wee ſhould have occaſion to ſee in <hi>England;</hi> by Gods aſſiſtance, ſetting forth from our dwellings in <hi>London,</hi> on Friday the fifth of <hi>June</hi> in the after<g ref="char:EOLhyphen"/>noone, wee came to the Leaguer the day following, without the leaſt thought of any manner of <hi>deſigne:</hi> O cenſorious Sir! You ſaw not our hearts, our hearts to whom the very name <hi>malignitie,</hi> much more the thing, come it whether in your <hi>firſt or ſecond edition,</hi> if under that no<g ref="char:EOLhyphen"/>tion of <hi>malignitie,</hi> tis odious, tis abominable: Tis pub<g ref="char:EOLhyphen"/>liquely knowne, that wee have layed out our ſelves, and ours, for the publique.</p>
+            <pb n="7" facs="tcp:113708:5"/>
+            <p>On the Lords day, the ſeaventh of that <hi>June,</hi> in the morn<g ref="char:EOLhyphen"/>ing, we deſiring ſo much as we could, at ſuch a diſtance from home, and in ſuch a place, to ſpend that day to Gods glory and our owne good) hearing that there would be no Sermon at <hi>Wheatly,</hi> where we Inn'd, we repaired to the Lea<g ref="char:EOLhyphen"/>guer, and inquired at the Head-quarters, who was to Preach before his Excellency Sir <hi>Thomas Fairfax,</hi> and where the Ser<g ref="char:EOLhyphen"/>mon would be, and were informed that your ſelfe were to exerciſe at the meeting-place at <hi>Marston;</hi> learning at length that by Meeting-place was meant the Church; thither we repaired, where we ſaw and heard from you Maſter <hi>Dell,</hi> a great deale of other Matter then the Preſſe hath met with<g ref="char:EOLhyphen"/>all; and till then, moſt of us never ſaw, nor heard of you: Yet were we ſo farre from anger, or headineſſe, by you charged upon us, againſt the plaine and cleere truth of the Goſpell, which you then delivered in your Expoſition, that we commended you for all that we found to be commenda<g ref="char:EOLhyphen"/>ble in you: As we did, doe, and will ſay, (ſay you what you will) that you did deliver ſome very good matter. But yet, ſince we are neceſſitated, and ſince (as it now appeares to us) wiſe men are not alwayes ſo wiſe as they ſhould, or might be; therefore you will have us promulge our thoughts to the world; we muſt declare, we were not ſa<g ref="char:EOLhyphen"/>tisfied with all that then you did deliver. But pray, let us tell you, you doe ill to conclude, that becauſe we ſpoake not with you, therefore we durſt not come to you to diſ<g ref="char:EOLhyphen"/>courſe with you, or looke you in the face; for all of us had not the opportunity to come unto you, and indeed after our rehearing from you by a Gentleman of our Company, who did ſpeake with you, as you have acknowledged; though wee could have gained time, we had but little deſire, the reaſon whereof we hereafter give you in this our Anſwer.</p>
+            <p>On the Munday morning, the eighth of <hi>June,</hi> we tooke our journey homewards, and by Gods bleſſing returned that night well and ſafe to our dwellings; leaving behinde us at the Leaguer, ſome of our Company
+<note n="*" place="margin">C. F.</note>, which we had juſt
+<pb n="8" facs="tcp:113708:6"/>cauſe to ſuſpect (becauſe you put us in minde of Deſignes) went thither to carry on a Deſigne, as appeared, by deſert<g ref="char:EOLhyphen"/>ing of us; by maintaining the rumour of the SCOTS comming againſt the Army; by diſcountenancing ſome of our godly Preachers in <hi>London;</hi> and ſuch other paſſages. Having bin a few dayes at home, a rumour came to our eares, of a ſeditious Sermon lately Preached in the Lea<g ref="char:EOLhyphen"/>guer; and the peoples voyce pitcht upon this your menti<g ref="char:EOLhyphen"/>oned Expoſition, to be that Leagver Sermon, which ſo tended to ſedition. The whole truth, and ſubſtance where<g ref="char:EOLhyphen"/>of (notwithſtanding your affirmation) to our knowledge is not exactly ſet downe in the Printed Copy: For as very much is abated, which you then delivered; ſo, ſomething is added, of like words indeed, but of much different ſence; whereof we will not preſume to paſſe any manner of cen<g ref="char:EOLhyphen"/>ſure or judgement, for that is above us and now depending. For the report hereof ſtayed not long within the Citie wals; inſomuch, that within a few dayes following, no<g ref="char:EOLhyphen"/>tice having bin taken of our late returne from the Leaguer, we were, with much wonderment on our part, and without our foreknowledge, privity or deſire, ſummoned to make our appearance on Munday the nine and twentieth of the ſame <hi>June,</hi> in the Lords Houſe of Parliament. Whither be<g ref="char:EOLhyphen"/>ing come, we were there demanded by the right Honoura<g ref="char:EOLhyphen"/>ble Lord, the then Speaker, Whether we were lately at the Leaguer, and whether we heard you Preach there. We an<g ref="char:EOLhyphen"/>ſwered, we were there, and there we heard you Expound the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven laſt verſes of the 54. Chapter of <hi>Jſaiah.</hi> Then was pro<g ref="char:EOLhyphen"/>duced by one of the Clarks of that Houſe, a Paper, which when he had read, we found that it contained certaine paſſa<g ref="char:EOLhyphen"/>ges of your Expoſition, which it ſeemes you have now for<g ref="char:EOLhyphen"/>gotten, and therefore have either omitted or minced them. But being demanded, whether we remembred them to paſſe from you or not, we muſt ſpeake the truth, and did confeſſe, that thoſe or the like words in effect, were then and there by you delivered. Whereupon we were for that time diſmiſſed, and commanded to attend againe on Thurſday following,
+<pb n="9" facs="tcp:113708:6"/>being the ſecond of this <hi>July;</hi> where having attended ſome time, we were without calling in commanded to depart, till further ſummons.</p>
+            <p>What was then and there read unto us, as by you delive<g ref="char:EOLhyphen"/>red in your Expoſition, if not in thoſe very words; yet to that effect, doth here follow, <hi>viz.</hi>
+            </p>
+            <p>There are no more of the Church of God in a Kingdome, then there be ſuch as have the ſpirit of God in that King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Neither Old nor new Teſtament doe hold forth a whole Nation to be a Church.</p>
+            <p>Whatſoever a State, an Aſſembly, or Counſell ſhall ſay, ought not to binde the Saints, further then the judgement of thoſe Saints ſhall lead them.</p>
+            <p>The Saints are thoſe that are now ſtiled Anabaptiſts, Fa<g ref="char:EOLhyphen"/>maliſts, Antinomians, Independents, Sectaries, and the like.</p>
+            <p>The power is in you the People, keepe it, part not with it.</p>
+            <p>The firſt Party that roſe againſt you; namely, the Pro<g ref="char:EOLhyphen"/>phane ones of the Land, are already fallen under you; and now there is another party, Formaliſts and carnall Goſpel<g ref="char:EOLhyphen"/>ers, riſing up againſt you; but I am confident, they ſhall al<g ref="char:EOLhyphen"/>ſo fall under you.</p>
+            <p>They are willing to become Subjects, to make the Saints ſlaves; nay, they are willing to become ſlaves themſelves, that they may tread upon the necks of the Saints.</p>
+            <p>Now that being thus by your ſelfe occaſioned, we have declared our conſciences, in ſetting forth the whole truth of our knowledge in theſe proceedings; we doe, in the pre<g ref="char:EOLhyphen"/>ſence of God, proteſt againſt the very thought, of all or any either old or <hi>new Deſigne,</hi> to be acted by us, notwithſtand<g ref="char:EOLhyphen"/>ing your ſo much urging the ſame, and harping thereup<g ref="char:EOLhyphen"/>on. But if inſtead of our acting, thoſe of riper and more diving judgements then we are, can or ſhall, out of your
+<pb n="10" facs="tcp:113708:7"/>owne mouth, collect a Deſigne now in hand on your part, to them we ſhall leave both it and you.</p>
+            <p>Be not aſhamed Sir to charge home, deſcend from your mighty mouthing Generalls, your pretended <hi>fierce, furious, contradicting, blaſpeming, helliſh</hi> ſpeeches (words not be<g ref="char:EOLhyphen"/>ſeeming ſo mild a mouth as a Miniſters ought to be) to plaine particulars; ſpare neither our perſons, words nor actions: you have ſeverall times met with us, pointed at us; Oh why would you not daigne to ſpeak with us? We are, we hope, of ſuch a <hi>Generation</hi> as you are, if you be, as we hope you are (notwithſtanding the tranſcendency of your paſſion) of that generation that feares God: Suppoſe the worſt, that we had wronged you (though ſhould you ſay it, we dare ſay, your conſcience would check your tongue) Oh me thinks you ſhould not recompence to us evill for evill,
+<note place="margin">Pro. 24.29. Rom. 12.17.</note> nor thus in this vaine, frothy, wording way, ſeek to avenge your ſelfe;
+<note place="margin">Rom. 12 19.</note> Why ſhould you be thus tranſported? You know whoſe vengeance is, and who hath ſaid he will repay; to him both you and we muſt ſtand and fall.</p>
+            <p>Why will you thus preſumingly uſurpe Gods Throne? Pray remember what it is to judge;
+<note place="margin">Mat. 7.1, 2. 1 Cor. 4.5.</note> the Lord preſerve us from any, and you from further operation of that Spirit, in whom no truth is.
+<note place="margin">Iohn 8, 44.</note> 
+               <hi>The whole City filled with lyes, ſlanders!</hi> O hyperbolicall! and you poore ſimple man <hi>charged with things you knew not,</hi> or rather that you will not remember; but there are though not hundreds, yet a competent number of credible witneſſes, and ſome of them of knowne worth and piety, that when they ſhall be called to it, will, in diſ<g ref="char:EOLhyphen"/>charge of their conſcience, and according to the Cove<g ref="char:EOLhyphen"/>nant which they have taken, put you in mind of ſomething which you would be loath to heare. Ah, Maſter <hi>Dell!</hi> what del-uſion is it that hath thus ſeized upon you? What, muſt <hi>meere neceſſity constraine this, and the following Generations to be acquainted with</hi> your juglings? Becauſe you are afraid that your whole expoſition, if it look upon the Sunne, will not endure the light thereof; and ſearing leaſt we being cal<g ref="char:EOLhyphen"/>led thereunto, will make a cleer diſcovery; therefore you
+<pb n="11" facs="tcp:113708:7"/>cry out, <hi>theſe men reſiſt the Spirit, and act againſt Chriſt him<g ref="char:EOLhyphen"/>ſelfe in the Word;</hi> a ſtrange concluſion. We hint your drift; you think perchance by your prejudice, to cloud and eclipſe us, yet your expectation may be fruſtrate.</p>
+            <p>Truly Sir, for our parts, we muſt needs confeſſe, that your diſcourſe in print, is plainer then your diſcourſe in the Pul<g ref="char:EOLhyphen"/>pit was; yet both there and here, we, whom you eſteeme <hi>children borne after the fleſh,</hi> and <hi>carnall Christians</hi> (the Lord more and more ſpirituallize both you and us) cannot be ſo blind, but we muſt needs, and doe acknowledge ſome<g ref="char:EOLhyphen"/>thing of the ſpirit in it, againſt which we abhorre to be at any enmity; and are as ſeriouſly reſolved as you are, or can be (notwithſtanding your boiſterous bluſtering and ſeſqui<g ref="char:EOLhyphen"/>pidalian verborſity) to ſtand to, and maintaine the Cauſe of Chriſt, and the cleering up the brightneſſe of his comming in the Miniſtery of the Goſpell, againſt the power and ma<g ref="char:EOLhyphen"/>lice of the Devill and the world, according to our Vocation ſo farre as poſſibly we may or can, though with the loſſe of what is moſt deare and precious to us, even to the laying downe of our lives themſelves: and this profeſſion, notwith<g ref="char:EOLhyphen"/>ſtanding all the venome that you have, or can ſpit againſt us, we doe here jointly and ſeverally (we thank you for it, for we take it as an accidentall curteſie) make and hold forth; not doubting, but knowing aſſuredly that the ſpirit of Chriſt, which we truſt is in us, and hope and pray that it may be in you, is, and will be predominant over that ſpirit that is in the world.</p>
+            <p>And now Sir, where or what is that <hi>Victory</hi> that your verball vaunting boaſts of? To what purpoſe hath your fu<g ref="char:EOLhyphen"/>rious fury all this while runne deſcant?
+<note place="margin">Phil. 3.19.</note> 
+               <hi>Glory not in your ſhaine:</hi> Is there no other way to accompliſh a greater, and more open diſcovery of the truth, and to cauſe the beames thereof to be ſcattered in the Kingdome, but by your curtaild notes? Oh! what pitty is it, that another, and not your ſelfe, did not write the forepart of this your Epiſtle? <hi>Let another man praiſe thee, and not thy owne mouth;</hi>
+               <note place="margin">Pro. 27.2.</note> a ſtran<g ref="char:EOLhyphen"/>ger,
+<pb n="12" facs="tcp:113708:8"/>and not thy owne lips. Good Maſter <hi>Dell,</hi> doe not con<g ref="char:EOLhyphen"/>ceive the children of the truth to be ſo dull, but that they wil entertaine the truth, where, and by whomſoever it comes, without asking you any leave.</p>
+            <p>Whither are you now roving? You are gotten againe in<g ref="char:EOLhyphen"/>to the clouds, and fall againe upon your paradoxes; and becauſe you will not too much tautalogize you have laid aſide your before mentioned <hi>cunning and deceiving maligni<g ref="char:EOLhyphen"/>ty,</hi> and have found out Synonimaes for <hi>Deſignes;</hi> and now you tell the world, that <hi>wee betray our owne and our fel<g ref="char:EOLhyphen"/>lowes Cauſe, and overthrow our owne and their ends:</hi> We free<g ref="char:EOLhyphen"/>ly profeſſe our ignorance herein, we underſtand you not, neither know we what to make of, nor how to unfold theſe your ridiculous riddles: but this we plainly from our ſoules pronounce and ſay, Curſed be that perſon that ſhall think of oppreſſing the truth; let it propogate and flouriſh, and let all its enemies periſh; let it flouriſh! yea, we are confi<g ref="char:EOLhyphen"/>dent it will flouriſh, and that through ſlanders, oppreſſions, contradictions, villanies, and all other your reckoned up raſcally rabble: And this our confidence is built upon a ſtrong foundation;
+<note place="margin">John 3.35.</note> 
+               <hi>The Lord of heaven and earth having gi<g ref="char:EOLhyphen"/>ven all things into the hands of his Sonne,
+<note place="margin">Heb. 2.8. Col. 1.18.</note> and having put all things in ſubjection under his feet;</hi> ſo that at length hee ſhall moſt certainly <hi>have the preheminence; for at the name, and by the onely power of Jeſus Chriſt,
+<note place="margin">Phil. 2.10.</note> every knee ſhall bow, of things in Heaven and things in Earth, and things under the Earth.</hi> Let your thoughts of us be as meane and low as you pleaſe, this is that great day and thing that we looke and long for.</p>
+            <p>Oh! now at length pitty your ſoule, repent your rai<g ref="char:EOLhyphen"/>ling;
+<note place="margin">2 Sam. 16. 2 Kin. 18.</note> act no longer <hi>Shimei</hi> nor <hi>Rabſhakeh's</hi> part: Be aſto<g ref="char:EOLhyphen"/>niſhed, and magnifie the omnipotent God, that hath thus diſ<g ref="char:EOLhyphen"/>covered the deceitfulneſſe of your heart;
+<note place="margin">Jer. 17.9.</note> and let our ſoules bleſſe the Lord, that he, the ſole wonder-working God, hath by his power and goodneſſe, out of this your intended evil towards us, produced thus much unſpeakable joy &amp; com<g ref="char:EOLhyphen"/>fort
+<pb n="13" facs="tcp:113708:8"/>to our ſpirits, cauſing us, through the riches of his mer<g ref="char:EOLhyphen"/>cy, to cleer up our evidence for heaven, and enabling us by the freeneſſe of his grace, tovindicate our aſperſed ſelves as to the world, ſo we hope to your own conſcience. Ceaſe there<g ref="char:EOLhyphen"/>fore, we beſeech you, to calumniate thoſe, that from their ſoules deſire to look and walk heaven-ward: We verily be leeve, did you truly know us, you would not ſuffer one mans whiſpering to be ſo prevalent with you, as thus to alienate your affection from us. Though we are ſtrangers to you,
+<note place="margin">1 John 3.14.</note> we hope the Lord loves us; Why ſhould you injure and op<g ref="char:EOLhyphen"/>preſſe us? Nay we are Brethren, why ſhould you not love us? We wiſh that your
+<note n="*" place="margin">C. F.</note> Informer were ſo godly a Citizen as you take him to be: you will not deny that diſſembled piety is double iniquity: What think you of that godlineſſe that is accompanied with drunkenneſſe? to ſay no more of him, though we might ſpeak of pride, lying, backbiting; but we are loath to brand him too much. Could we inſinuate into, and fawne upon you, as others doe, then we think you would not thus condemne us: Howſoever,
+<note place="margin">1 Joh. 3 21. Mat. 12.7.</note> ſince our hearts condemne us not, why ſhould you doe it? And you have little reaſon to count us thorny hearers, for that you find by experience, that the Word is <hi>not choaked in us.</hi>
+               <note place="margin">Mat. 13.22.</note>
+            </p>
+            <p>As for that one among us that came to you, he was not urged thereunto, as you pretend, neither doe you ſet downe either a true or full relation of that diſcourſe that paſſed be<g ref="char:EOLhyphen"/>tween him and you. The truth is, there was ſome ſuch diſ<g ref="char:EOLhyphen"/>courſe as you have ſet downe concerning Presbytery and In<g ref="char:EOLhyphen"/>dependency, and this was that wherein he rejoyced, as ſeem<g ref="char:EOLhyphen"/>ing to you ſatisfied: but you muſt needs remember, that other matters were then ſpoken of.</p>
+            <p>Neither was he ſo ſatisfied as you would make the world beleeve and how could he or any of us be ſatisfied? when as this your expoſition tendeth much to diviſion, by extolling the Independent party, and yet in private, you wil pretend to put no difference between Presbytery and Independency, and then evade it, by going about to make us and others be<g ref="char:EOLhyphen"/>leeve, that your <hi>intentions were not according to your expreſſi<g ref="char:EOLhyphen"/>ons.</hi>
+               <pb n="14" facs="tcp:113708:9"/>And your Relater is much miſtaken in this Chriſtians ſtomack, for his ſtomack hath been no other, either con<g ref="char:EOLhyphen"/>cerning your ſelfe or this buſineſſe, then becommeth a Chri<g ref="char:EOLhyphen"/>ſtian to have. But of this particular, and of this Chriſtians more particular anſwer to ſo much of your Epiſtle as con<g ref="char:EOLhyphen"/>cernes himſelfe ſingly, you may perchance hereafter have a more full relation.</p>
+            <p>Thus having by the aſſiſtance and direction of our pru<g ref="char:EOLhyphen"/>dent and good God, diſcharged our conſciences, and en<g ref="char:EOLhyphen"/>deavoured to ſatisfie both your ſelfe and the world, by fully anſwering every particular of your charge againſt us, we doe heartily commend you to the grace of God, earneſtly en<g ref="char:EOLhyphen"/>treating you to be no longer miſtaken in us, but to be con<g ref="char:EOLhyphen"/>vinced in your judgement, that our ſtudy is (for ſuch we aſ<g ref="char:EOLhyphen"/>ſure you is the bent of our ſoules, the Lord pardon our ſins, our imperfections) to <hi>live peaceably with</hi> you and <hi>all men,
+<note place="margin">Rom. 12.18. Heb. 12.14.</note> as much as in us lieth,</hi> and to <hi>acquire holineſſe;</hi> without which, we are moſt certaine, no man ſhall ſee the Lord.</p>
+            <closer>
+               <salute>Sir,</salute>
+we are,
+<signed>according to your owne denominati<g ref="char:EOLhyphen"/>on in the end of your Epiſtle, <hi>Christian Readers.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113708:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
